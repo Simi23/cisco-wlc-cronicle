@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // Cisco WLC Wlan Admin state toggle
-// Copyright (c) 2024 Tamas Simon
+// Copyright (c) 2023 Tamas Simon
 
 // Dependencies to be installed: node-ssh
 // npm install node-ssh
