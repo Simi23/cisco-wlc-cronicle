@@ -2,6 +2,8 @@
 Cronicle plugin for enabling/disabling WLANs on a Cisco AireOS Controller.
 
 ## Usage
+Install the dependency of the script: `node-ssh`. To do this, run `npm install node-ssh` in your Cronicle directory, which is `/opt/cronicle` by default.
+
 Supply the following parameters when importing the plugin into Cronicle:
 
 | **Param ID**    | **Control Type** |
