@@ -36,7 +36,7 @@ Parameters:
 
 It should look like this:
 
-![Képernyőkép 2024-01-03 120505](https://github.com/Simi23/cisco-wlc-cronicle/assets/44925919/098347b3-4153-4235-8088-8438746e5d28)
+![configuration](https://i.imgur.com/TDExjh0.png)
 
 ### Explanation
 The `controller_ip` field indicates the IP address of the management interface on the WLC.
@@ -53,4 +53,4 @@ Select the plugin and provide the needed values.
 Set all the other parameters to suit your needs.
 
 For example, this setup turns on WLAN ID 5 at 8 AM every day:
-![Képernyőkép 2024-01-03 120957](https://github.com/Simi23/cisco-wlc-cronicle/assets/44925919/04d6d268-91e9-43cc-a60c-cf0790a3d61f)
+![example](https://i.imgur.com/AMIeZiH.png)
